@@ -10,6 +10,6 @@ Created a landing page for the Odin Project. The landing page utilizes flex to d
 
 ## Screenshots
 
-![]( )
-![]( )
-![]( )
+![](https://github.com/Famz88/landing-page/blob/main/assets/1.JPG)
+![](https://github.com/Famz88/landing-page/blob/main/assets/2.JPG)
+![](https://github.com/Famz88/landing-page/blob/main/assets/3.JPG)
